@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  /* margin: 0% ; */
+  /* display: flex; */
 }
 
 .App-logo {
@@ -35,4 +37,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.first{
+  display: flex;
+  overflow-y: hidden;
 }
